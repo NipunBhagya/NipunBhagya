@@ -62,16 +62,28 @@ I'm a passionate <strong>Mobile Developer</strong> with experience in building h
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunBhagya&theme=radical&hide_border=true" width="48%" />
 </p>
 
+---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nipun-bhagya-041379259)  
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter)](https://x.com/PVBNipun?t=2MwL1cT5-qXbX8waVPPWFw&s=09)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nipun-bhagya-041379259" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/PVBNipun?t=2MwL1cT5-qXbX8waVPPWFw&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
+
 
 ---
 
-### 🔗 Portfolio
 
-Check out my portfolio: [**Click Here**](https://nipunpv.github.io/my-portfolio)
+### 🔗 Portfolio
+<p align="center">
+  <a href="https://nipunpv.github.io/my-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
