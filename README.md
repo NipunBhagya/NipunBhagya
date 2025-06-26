@@ -81,7 +81,7 @@ I'm a passionate <strong>Mobile Developer</strong> with experience in building h
 
 ### 🔗 Portfolio
 <p align="center">
-  <a href="https://nipunpv.github.io/my-portfolio" target="_blank">
+  <a href="http://nipunbportfolio.kesug.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
